@@ -1,2 +1,2 @@
 # Info-Retrieval-System
-Generative AI using LLM
+Generative AI that leverages Google Palm API (unifinished)
